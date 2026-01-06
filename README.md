@@ -39,13 +39,13 @@ Focuses on industry-specific "Applied AI" and deployment.
 ## Instructor Portfolio & Lab Examples
 The following projects represent the technical standard and methodologies taught in this program.
 
-|Training Module |Reference Project (Core Lab) |Key Technical Skill                  |
-|------------------------------------------------------------------------------------|
-|Real Estate Analytics |Real Estate Price Prediction |Regression & FastAPI Deployment|
-|Financial Security |Fraud Detection System |Anomaly Detection & Precision-Recall    |
-|Computer Vision |Insurance OCR Automation |OpenCV & Streamlit Interface             |
-|Cyber Security |AI Threat Detection |Autoencoders & PCA Analysis                      |
-|Generative AI |RAG-based AI Assistant |OpenAI API & Knowledge Retrieval               |
+| Training Module | Reference Project (Core Lab) | Key Technical Skill |
+| :--- | :--- | :--- |
+| **Real Estate Analytics** | Real Estate Price Prediction | Regression & **FastAPI** Deployment |
+| **Financial Security** | Fraud Detection System | Anomaly Detection & Precision-Recall |
+| **Computer Vision** | Insurance OCR Automation | **OpenCV** & **Streamlit** Interface |
+| **Cyber Security** | AI Threat Detection | Autoencoders & PCA Analysis |
+| **Generative AI** | RAG-based AI Assistant | OpenAI API & Knowledge Retrieval |
 
 
 ---
