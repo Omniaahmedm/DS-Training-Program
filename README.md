@@ -31,7 +31,7 @@ Focuses on industry-specific "Applied AI" and deployment.
 2. **Fraud Detection:** Anomaly detection + Financial ROI analysis.
 3. **Insurance OCR:** Computer Vision + Streamlit UI.
 4. **Cyber Security:** Autoencoders for threat detection.
-5. **Generative AI:** Building RAG-based assistants.
+5. **Introduction to LLMs & Generative AI:** Building RAG-based assistants.
 
 
 ---
@@ -45,7 +45,7 @@ The following projects represent the technical standard and methodologies taught
 | **Financial Security** | Fraud Detection System | Anomaly Detection & Precision-Recall |
 | **Computer Vision** | Insurance OCR Automation | **OpenCV** & **Streamlit** Interface |
 | **Cyber Security** | AI Threat Detection | Autoencoders & PCA Analysis |
-| **Generative AI** | RAG-based AI Assistant | OpenAI API & Knowledge Retrieval |
+| **Introduction to LLMs & Generative AI** | RAG-based AI Assistant | OpenAI API & Knowledge Retrieval |
 
 
 ---
