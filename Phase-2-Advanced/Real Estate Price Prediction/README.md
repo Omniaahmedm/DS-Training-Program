@@ -19,7 +19,7 @@ Build an intelligent pricing system that helps:
 | Phase 3 | Business Intelligence | SHAP analysis, model explainability | Decision transparency |
 | Phase 4 | MLOps & Deployment | FastAPI, Streamlit, monitoring | Production-ready system |
 
-📄 **Full roadmap:** [`reports/roadmap.pdf`](reports/roadmap.pdf)
+
 
 ---
 
